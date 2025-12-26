@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Shut Down",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-26T10:40:49.537083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shut Down [Annihilation Man]",
+      "artist": "Germs",
+      "has_synced": false,
+      "path": "select/01_Shut_Down_[Annihilation_Man]_Germs.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shut Down [Annihilation Man]",
+      "artist": "The Germs",
+      "has_synced": false,
+      "path": "select/02_Shut_Down_[Annihilation_Man]_The_Germs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shut Down [Annihilation Man] - Live At The Starwood, December 3, 1980",
+      "artist": "Germs",
+      "has_synced": false,
+      "path": "select/03_Shut_Down_[Annihilation_Man]_-_Live_At_The_Starwood,_December_3,_1980_Germs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shut Down",
+      "artist": "Rotten Sound",
+      "has_synced": false,
+      "path": "select/04_Shut_Down_Rotten_Sound.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shut Down (Stereo)",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/05_Shut_Down_(Stereo)_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shut Down (2003 stereo mix)",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/06_Shut_Down_(2003_stereo_mix)_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shut Down",
+      "artist": "Soul Asylum",
+      "has_synced": true,
+      "path": "select/07_Shut_Down_Soul_Asylum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shut Down - Remastered",
+      "artist": "Australian Crawl",
+      "has_synced": false,
+      "path": "select/08_Shut_Down_-_Remastered_Australian_Crawl.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shut Down, Turn Off",
+      "artist": "Little River Band",
+      "has_synced": true,
+      "path": "select/09_Shut_Down,_Turn_Off_Little_River_Band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shut Down",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/10_Shut_Down_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shut Down",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/11_Shut_Down_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shut Down",
+      "artist": "Beach Boys",
+      "has_synced": true,
+      "path": "select/12_Shut_Down_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shut Down (Mono)",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/13_Shut_Down_(Mono)_The_Beach_Boys.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shut Down",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Shut_Down_BLACKPINK.txt"
+    }
+  ]
+}
